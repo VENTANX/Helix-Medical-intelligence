@@ -1,0 +1,9 @@
+pika
+transformers
+torch
+streamlit
+faker
+pandas
+numpy
+regex
+scipy
