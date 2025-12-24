@@ -1,3 +1,5 @@
+<img width="1919" height="933" alt="image" src="https://github.com/user-attachments/assets/2dcd8805-d3ad-4852-a8b9-ccb7e1985172" />
+
 # Helix Intelligence: Medical NER & Analytics System
 **Architected by Oussama Aslouj**
 
